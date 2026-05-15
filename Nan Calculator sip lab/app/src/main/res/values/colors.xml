@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_background">#611411</color>
+    <color name="app_bg_brown">#63230C</color>
+    <color name="dark_red">#8B0000</color>
+
+    <!-- Taro Tap Premium Palette -->
+    <color name="oat_milk">#FFF3A3</color>
+    <color name="rose_quartz">#F9CBD6</color>
+    <color name="blush">#F2AFBC</color>
+    <color name="red_wine">#9E182B</color>
+    <color name="boba_brown">#4E342E</color>
+
+    <!-- Liquid Flavor Colors -->
+    <color name="liquid_matcha">#8BA870</color>
+    <color name="liquid_taro">#B5A2D0</color>
+    <color name="liquid_thai">#F2994A</color>
+    <color name="liquid_strawberry">#FF8DA1</color>
+    <color name="liquid_sugar">#8B4513</color>
+    <color name="liquid_peach">#FFCCB6</color>
+    <color name="liquid_cocoa">#5D4037</color>
+    <color name="liquid_vanilla">#FFF9C4</color>
+    <color name="liquid_lychee">#F8F8F8</color>
+    <color name="liquid_mango">#FFC107</color>
+    <color name="liquid_honey">#FFD700</color>
+    <color name="liquid_melon">#C5E1A5</color>
+    <color name="liquid_rose">#F48FB1</color>
+    <color name="liquid_lavender">#E1BEE7</color>
+    <color name="liquid_coconut">#FFFDF5</color>
+    <color name="liquid_mint">#B2DFDB</color>
+
+    <!-- Legacy support -->
+    <color name="butter_yellow">#F2E0D2</color>
+    <color name="dusty_rose">#F9CBD6</color>
+    <color name="cherry_red">#F2AFBC</color>
+    <color name="moss_green">#9E182B</color>
+    <color name="sage">#9E182B</color>
+    <color name="charcoal">#333333</color>
+</resources>

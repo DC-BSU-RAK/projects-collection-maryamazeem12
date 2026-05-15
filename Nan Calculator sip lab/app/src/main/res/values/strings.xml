@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Sip Lab</string>
+    <string name="ready_to_brew">ALCHEMY LAB</string>
+    <string name="mixing">BREWING MAGIC…</string>
+    <string name="brew_complete">ELIXIR READY!</string>
+    <string name="legendary_sip">Legendary Sip</string>
+    <string name="select_mixer">TAP TO START MIXING</string>
+    <string name="mastered">Refill</string>
+    <string name="manual_title">Brewing Manual</string>
+    <string name="toppings_heading">TOPPINGS</string>
+
+    <!-- Flavor Names -->
+    <string name="matcha">Matcha</string>
+    <string name="taro">Taro</string>
+    <string name="thai">Thai</string>
+    <string name="melon">Melon</string>
+    <string name="sugar">Sugar</string>
+    <string name="berry">Berry</string>
+    <string name="cocoa">Cocoa</string>
+    <string name="peach">Peach</string>
+    <string name="lychee">Lychee</string>
+    <string name="mango">Mango</string>
+    <string name="honey">Honey</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="rose">Rose</string>
+    <string name="lavender">Lavender</string>
+    <string name="coconut">Coconut</string>
+    <string name="mint">Mint</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="choco">Choco Chips</string>
+
+    <!-- Toppings -->
+    <string name="pearls">Boba Pearls</string>
+    <string name="popping">Pop</string>
+    <string name="jelly">Jelly</string>
+
+    <!-- Actions -->
+    <string name="undo">UNDO</string>
+    <string name="mix_final">MIX</string>
+    <string name="mystery_mix">Mystery Mix</string>
+</resources>
